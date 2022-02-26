@@ -1,1 +1,1 @@
-# DenseNet
+Simple Implementation of DenseNet
